@@ -28,3 +28,4 @@
  tool so you need to update this tool in every 2 or 3 week for more<br>
  features.to update this tool simply run this command<br>
  ./update (it will update ok).<br>
+CONTRIBUTION GOES TO TECHNICAL MUJEEB
