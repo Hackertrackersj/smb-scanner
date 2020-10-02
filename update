@@ -1,0 +1,5 @@
+echo "SMB-SCANNING."
+echo "updateing smb-scanner........."
+git pull origin master
+figlet -f small updated !
+echo "[ updating Finished..]" 
